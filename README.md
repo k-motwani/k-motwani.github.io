@@ -6,7 +6,7 @@
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+(sharu725)[https://github.com/sharu725/online-cv] have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
 
 <table>
   <tr>
@@ -26,9 +26,9 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://onli
 ## Installation
 
 * [Fork](https://github.com/k-motwani/site-template.github.io/fork) the repository;
-* Go to settings and set master branch as Github Pages source;
-* Your new site should be ready at `https://<username>.github.io/online-cv/`;
-* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
+* Go to settings and set `master` or desired branch as Github Pages source;
+* Your new site should be ready at `https://<username>.github.io/online-cv/` or `https://<username>.github.io/`;
+* Printable version of the site can be found at `https://<username>.github.io/online-cv/print` or `https://<username>.github.io/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
 
 Change all the details from one place: `_data/data.yml`.
 

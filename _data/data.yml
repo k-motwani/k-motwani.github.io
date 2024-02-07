@@ -40,7 +40,7 @@ sidebar:
           level: Novice
 
         - idiom: Hindi
-          level: Intermediatw
+          level: Intermediate
 
     interests:
       title: Interests
@@ -70,7 +70,7 @@ education:
       - degree: MD
         university: University of Florida
         time: 2015 - 2026
-        #details: |
+        details: |
           #Describe your study here lorem ipsum dolor sit amet, consectetuer
           #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           #sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -78,28 +78,35 @@ education:
           #pretium quis, sem.
             #- Bullet point
             #- Bullet point
-      - degree: PhD in Biomedical Sciences, Immunology and Microbiology
+      - degree: PhD in Biomedical Sciences, Microbiology and Immunology
         university: University of Florida
         time: 2017 - 2013
-        #details: |
-          #Describe your study here lorem ipsum dolor sit amet, consectetuer
-          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          #sociis natoque penatibus et magnis dis parturient montes, nascetur
-          #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          #pretium quis, sem.
-            #- Bullet point
-            #- Bullet point
+        details: |
+            - Todd Brusko Laboratory; May 2022 - Dec 2023
+                Studied how disease-susceptibility genetic variants and aberrant growth, survival,
+                and differentiation factors lead to a loss of T cell tolerance in the context of
+                autoimmune Type 1 Diabetes, to determine the phenotypic and functional impact 
+                of gene variants and age-associated growth factors on regulatory and 
+                effector T-cell and antigen presenting cell function.
+            - Brian Hoh Laboratory; Jul 2017 - Apr 2022
+                In the cerebrovascular research lab of Dr. Brian Hoh, MD, MBA, investigated the role of 
+                immune cells and wound healing in brain aneurysms treated by coiling, 
+                to improve treatment and outcomes for patients affected by aneurysmal hemorrhage. Daily work 
+                includes lab bench science, review of clinical and scientific literature, and supporting 
+                national organizations in spreading awareness of cerebral aneurysms 
+                which may affect up to 1 in 50 individuals in the US.
       - degree: BSc in Chemistry
         university: West Virginia University
         time: 2011 - 2015
-        #details: |
-          #Describe your study here lorem ipsum dolor sit amet, consectetuer
-          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          #sociis natoque penatibus et magnis dis parturient montes, nascetur
-          #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          #pretium quis, sem.
-            #- Bullet point
-            #- Bullet point
+        details: |
+          - Minor emphasis in:
+            - Leadership Studies
+            - Biology
+          - Undergraduate Researcher, West Virginia University Center for Neuroscience; Aug 2012 - May 2015
+              Analysis of three dimensional ultrastructure in the 
+              Medial Nucleus of the Trapezoid Body for further study of auditory development. 
+              Participated in WVU SURI (Summer Undergraduate Research Internship) 
+              under the mentorship of Dr. George Spirou.
 
 # experiences:
     # title: Experiences

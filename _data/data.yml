@@ -83,18 +83,18 @@ education:
         time: 2017 - 2013
         details: |
             - Todd Brusko Laboratory; May 2022 - Dec 2023
-                Studied how disease-susceptibility genetic variants and aberrant growth, survival,
-                and differentiation factors lead to a loss of T cell tolerance in the context of
-                autoimmune Type 1 Diabetes, to determine the phenotypic and functional impact 
-                of gene variants and age-associated growth factors on regulatory and 
-                effector T-cell and antigen presenting cell function.
+                -  Studied how disease-susceptibility genetic variants and aberrant growth, survival,
+                    and differentiation factors lead to a loss of T cell tolerance in the context of
+                    autoimmune Type 1 Diabetes, to determine the phenotypic and functional impact 
+                    of gene variants and age-associated growth factors on regulatory and 
+                    effector T-cell and antigen presenting cell function.
             - Brian Hoh Laboratory; Jul 2017 - Apr 2022
-                In the cerebrovascular research lab of Dr. Brian Hoh, MD, MBA, investigated the role of 
-                immune cells and wound healing in brain aneurysms treated by coiling, 
-                to improve treatment and outcomes for patients affected by aneurysmal hemorrhage. Daily work 
-                includes lab bench science, review of clinical and scientific literature, and supporting 
-                national organizations in spreading awareness of cerebral aneurysms 
-                which may affect up to 1 in 50 individuals in the US.
+                - In the cerebrovascular research lab of Dr. Brian Hoh, MD, MBA, investigated the role of 
+                    immune cells and wound healing in brain aneurysms treated by coiling, 
+                    to improve treatment and outcomes for patients affected by aneurysmal hemorrhage. Daily work 
+                    includes lab bench science, review of clinical and scientific literature, and supporting 
+                    national organizations in spreading awareness of cerebral aneurysms 
+                    which may affect up to 1 in 50 individuals in the US.
       - degree: BSc in Chemistry
         university: West Virginia University
         time: 2011 - 2015
@@ -103,10 +103,10 @@ education:
             - Leadership Studies
             - Biology
           - Undergraduate Researcher, West Virginia University Center for Neuroscience; Aug 2012 - May 2015
-              Analysis of three dimensional ultrastructure in the 
-              Medial Nucleus of the Trapezoid Body for further study of auditory development. 
-              Participated in WVU SURI (Summer Undergraduate Research Internship) 
-              under the mentorship of Dr. George Spirou.
+              - Analysis of three dimensional ultrastructure in the 
+                  Medial Nucleus of the Trapezoid Body for further study of auditory development. 
+                  Participated in WVU SURI (Summer Undergraduate Research Internship) 
+                  under the mentorship of Dr. George Spirou.
 
 # experiences:
     # title: Experiences

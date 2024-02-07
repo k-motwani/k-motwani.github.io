@@ -28,7 +28,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.github.com/k-motwani/CV/raw/CV.pdf
+    pdf: https://github.com/k-motwani/CV/raw/master/CV.pdf
 
     languages:
       title: Languages

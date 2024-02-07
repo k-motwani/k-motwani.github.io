@@ -70,7 +70,7 @@ education:
       - degree: MD
         university: University of Florida
         time: 2015 - 2026
-        details: |
+        # details: |
           #Describe your study here lorem ipsum dolor sit amet, consectetuer
           #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           #sociis natoque penatibus et magnis dis parturient montes, nascetur
